@@ -1,5 +1,5 @@
 ### About Me
-My Name is Jason Lopez and I'm a Full-stack JavaScript Web/Mobile Developer. You can find me on [![LinkedIn][2.2]][2].
+My Name is Jason Lopez and I'm a Full-stack JavaScript Web/Mobile Developer. You can find me on [![LinkedIn][1.1]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -25,19 +25,8 @@ My Name is Jason Lopez and I'm a Full-stack JavaScript Web/Mobile Developer. You
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/gtalha07/gtalha07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jslopeza&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5"/>
-</a>
-<a href="https://github.com/gtalha07/gtalha07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtalha07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<!-- Icons -->
 
-<a href="https://github.com/gtalha07/strapi-test-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtalha07&repo=strapi-test-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
-<a href="https://github.com/gtalha07/WorldTimeApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtalha07&repo=WorldTimeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+[1]: https://www.linkedin.com/in/james-lopez-dev/
