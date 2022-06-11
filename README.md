@@ -1,5 +1,5 @@
 ### About Me
-My Name is Jason Lopez and I'm a Full-stack JavaScript Web/Mobile Developer. You can find me on [![LinkedIn][1.1]][1].
+Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in JavaScript, React Native, React.js, Redux, Node.js, Webflow, WordPress, Python/Django, Electron, Express, MySQL, MSSQL, MongoDB, CSS, HTML, SASS, Bootstrap, JQuery, PHP/Laravel, Software Development - Web Frontend & React Native Development. Strong engineering with a Bachelor’s degree in Computer Science. You can find me on [![LinkedIn][1.1]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
